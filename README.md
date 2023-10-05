@@ -10,5 +10,11 @@ CSS.<br>
 JAVASCRIPT.
 
 Agradecimento.<br>
-Agradeço ao infuninnie.github.io/fimbo pelo modelo de portfolio que me inspirou.
+Agradeço ao imfuninnie.github.io/fimbo pelo modelo de portfolio.
+
+Modelo do portfoio.<br>
+https://imfunniee.github.io/template/1/
+
+Meu portfolio.<br>
+https://anapaulafsilva.github.io/
 
