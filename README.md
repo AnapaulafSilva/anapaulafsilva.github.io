@@ -5,10 +5,10 @@ Portfolio descrevendo sobre mim, minhas habilidades, projetos que eu construi ao
 Este portfolio foi um projeto final para o curso de programação web, administrado pela JA Brasil-Elas Na Tech 23.
 
 Linguagens usadas neste projetos.<br>
-HTML<br>
-CSS<br>
-JAVASCRIPT
+HTML.<br>
+CSS.<br>
+JAVASCRIPT.
 
-Agradecimento<br>
+Agradecimento.<br>
 Agradeço ao infuninnie.github.io/fimbo pelo modelo de portfolio que me inspirou.
 
